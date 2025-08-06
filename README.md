@@ -48,7 +48,6 @@ PasswordManagerSwing/
 ## ⚠️ Note
 
 - Your credentials are saved in plain text file `credentials.txt` (with Base64 encoding)
-- DO NOT upload `credentials.txt` to public GitHub repos
 
 ## 🧾 License
 
