@@ -28,6 +28,12 @@ A simple password manager application built using **Java Swing**. It allows user
 - Open the `src` folder in **IntelliJ**, **Eclipse**, or **VS Code**
 - Run `Main.java` as a Java Application
 
+ ### Option 2: Using zip file
+
+- Extract the zip file in a folder 
+- Open the folder in Vs code or any other ide
+- Run `Main.java` as a Java Application
+
 ## 📄 File Structure
 
 ```
